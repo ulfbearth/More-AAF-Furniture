@@ -1,0 +1,13 @@
+<furnitureData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults source="BlackWidowBed.esp"/>
+
+
+	<group id="Double_Bed">
+		<furniture form="804" id="WorkShopNpcBedBig1"/>
+	</group>
+	
+	<group id="Double_Bed_Wood_PreWar">
+	    <furniture form="804" id="WorkShopNpcBedBig1"/>
+	</group>	
+	
+</furnitureData>

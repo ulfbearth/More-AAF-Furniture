@@ -1,0 +1,146 @@
+<furnitureData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="common.xsd">
+	<defaults source="AES_Renovated Furniture.esp"/>
+
+
+	<group id="Couch_Federalist">
+		<furniture form="833" id="Friffy_CouchFederalistSit01"/>
+		<furniture form="847" id="Friffy_CouchFederalistSit03"/>
+		<furniture form="849" id="Friffy_CouchFederalistSit04"/>
+		<furniture form="1368" id="Friffy_CouchFederalistSit05"/>
+		<furniture form="838" id="Friffy_CouchFederalistSit02"/>
+	</group>
+
+    <group id="Couches">
+        <furniture form="847" id="Friffy_CouchFederalistSit03"/>
+		<furniture form="833" id="Friffy_CouchFederalistSit01"/>
+		<furniture form="849" id="Friffy_CouchFederalistSit04"/>
+		<furniture form="1368" id="Friffy_CouchFederalistSit05"/>
+		<furniture form="851" id="Friffy_CouchPlayerHouseSit05bl"/>
+		<furniture form="838" id="Friffy_CouchFederalistSit02"/>
+		<furniture form="81A" id="Friffy_CouchPlayerHouseSit01bk"/>
+		<furniture form="81B" id="Friffy_CouchPlayerHouseSit02rd"/>
+		<furniture form="84F" id="Friffy_CouchPlayerHouseSit03gr"/>
+		<furniture form="850" id="Friffy_CouchPlayerHouseSit04vi"/>
+		<furniture form="851" id="Friffy_CouchPlayerHouseSit05bl"/>
+		<furniture form="982" id="Friffy_CouchPlayerHouseSit06"/>
+		<furniture form="98D" id="Friffy_CouchPlayerHouseSit07"/>
+		<furniture form="98E" id="Friffy_CouchPlayerHouseSit08"/>
+		<furniture form="98F" id="Friffy_CouchPlayerHouseSit09"/>
+		<furniture form="990" id="Friffy_CouchPlayerHouseSit10"/>
+		<furniture form="991" id="Friffy_CouchPlayerHouseSit11"/>
+		<furniture form="837" id="Friffy_CouchModernDomesticSit01"/>
+		<furniture form="840" id="Friffy_CouchModernDomesticSit02"/>
+		<furniture form="845" id="Friffy_CouchModernDomesticSit03"/>
+		<furniture form="878" id="Friffy_CouchModernDomesticSit04"/>
+		<furniture form="879" id="Friffy_CouchModernDomesticSit05"/>
+		<furniture form="88F" id="Friffy_CouchModernDomesticSit06"/>
+		<furniture form="129C" id="Friffy_CouchModernDomesticSit07"/>
+		<furniture form="129D" id="Friffy_CouchModernDomesticSit08"/>
+		
+    </group>
+	
+	<group id="Couch">
+	    <furniture form="81A" id="Friffy_CouchPlayerHouseSit01bk"/>
+		<furniture form="81B" id="Friffy_CouchPlayerHouseSit02rd"/>
+		<furniture form="84F" id="Friffy_CouchPlayerHouseSit03gr"/>
+		<furniture form="850" id="Friffy_CouchPlayerHouseSit04vi"/>
+		<furniture form="851" id="Friffy_CouchPlayerHouseSit05bl"/>
+		<furniture form="982" id="Friffy_CouchPlayerHouseSit06"/>
+		<furniture form="98D" id="Friffy_CouchPlayerHouseSit07"/>
+		<furniture form="98E" id="Friffy_CouchPlayerHouseSit08"/>
+		<furniture form="98F" id="Friffy_CouchPlayerHouseSit09"/>
+		<furniture form="990" id="Friffy_CouchPlayerHouseSit10"/>
+		<furniture form="991" id="Friffy_CouchPlayerHouseSit11"/>
+		<furniture form="851" id="Friffy_CouchPlayerHouseSit05bl"/>
+		<furniture form="837" id="Friffy_CouchModernDomesticSit01"/>
+		<furniture form="840" id="Friffy_CouchModernDomesticSit02"/>
+		<furniture form="845" id="Friffy_CouchModernDomesticSit03"/>
+		<furniture form="878" id="Friffy_CouchModernDomesticSit04"/>
+		<furniture form="879" id="Friffy_CouchModernDomesticSit05"/>
+		<furniture form="88F" id="Friffy_CouchModernDomesticSit06"/>
+		<furniture form="129C" id="Friffy_CouchModernDomesticSit07"/>
+		<furniture form="129D" id="Friffy_CouchModernDomesticSit08"/>
+	</group>
+	
+	<group id="ArmChair">
+	    <furniture form="81D" id="Friffy_ChairPlayerHouseSit01bk"/>
+		<furniture form="81E" id="Friffy_ChairPlayerHouseSit02rd"/>
+		<furniture form="852" id="Friffy_ChairPlayerHouseSit03gr"/>
+		<furniture form="853" id="Friffy_ChairPlayerHouseSit04vi"/>
+		<furniture form="854" id="Friffy_ChairPlayerHouseSit05bl"/>
+		<furniture form="981" id="Friffy_ChairPlayerHouseSit06"/>
+		<furniture form="988" id="Friffy_ChairPlayerHouseSit07"/>
+		<furniture form="989" id="Friffy_ChairPlayerHouseSit08"/>
+		<furniture form="98A" id="Friffy_ChairPlayerHouseSit09"/>
+		<furniture form="98B" id="Friffy_ChairPlayerHouseSit10"/>
+		<furniture form="98C" id="Friffy_ChairPlayerHouseSit11"/>
+	</group>	
+	
+	<group id="Double_Bed">
+	    <furniture form="8FD" id="Friffy_bed"/>
+        <furniture form="8FF" id="Friffy_bed2"/>
+		<furniture form="902" id="Friffy_bed3"/>	
+		<furniture form="904" id="Friffy_bed4"/>
+		<furniture form="9A1" id="Friffy_bed5"/>
+		<furniture form="9A2" id="Friffy_bed6"/>
+		<furniture form="9A3" id="Friffy_bed7"/>	
+		<furniture form="9A4" id="Friffy_bed8"/>	
+		<furniture form="11F9" id="Friffy_bed9"/>
+		<furniture form="11FA" id="Friffy_bed10"/>
+		<furniture form="11FB" id="Friffy_bed11"/>
+		<furniture form="1264" id="Friffy_bed12"/>
+		<furniture form="1265" id="Friffy_bed13"/>
+		<furniture form="1266" id="Friffy_bed14"/>
+		<furniture form="1267" id="Friffy_bed15"/>
+		<furniture form="1268" id="Friffy_bed16"/>
+		<furniture form="1269" id="Friffy_bed17"/>	
+		<furniture form="126A" id="Friffy_bed18"/>
+		<furniture form="126B" id="Friffy_bed19"/>
+		<furniture form="126C" id="Friffy_bed20"/>
+		<furniture form="126D" id="Friffy_bed21"/>
+		<furniture form="126E" id="Friffy_bed22"/>	
+	</group>
+
+	<group id="Double_Bed_Wood_PreWar">
+	    <furniture form="8FD" id="Friffy_bed"/>
+        <furniture form="8FF" id="Friffy_bed2"/>
+		<furniture form="902" id="Friffy_bed3"/>	
+		<furniture form="904" id="Friffy_bed4"/>
+		<furniture form="9A1" id="Friffy_bed5"/>
+		<furniture form="9A2" id="Friffy_bed6"/>
+		<furniture form="9A3" id="Friffy_bed7"/>	
+		<furniture form="9A4" id="Friffy_bed8"/>	
+		<furniture form="11F9" id="Friffy_bed9"/>
+		<furniture form="11FA" id="Friffy_bed10"/>
+		<furniture form="11FB" id="Friffy_bed11"/>
+		<furniture form="1264" id="Friffy_bed12"/>
+		<furniture form="1265" id="Friffy_bed13"/>
+		<furniture form="1266" id="Friffy_bed14"/>
+		<furniture form="1267" id="Friffy_bed15"/>
+		<furniture form="1268" id="Friffy_bed16"/>
+		<furniture form="1269" id="Friffy_bed17"/>	
+		<furniture form="126A" id="Friffy_bed18"/>
+		<furniture form="126B" id="Friffy_bed19"/>
+		<furniture form="126C" id="Friffy_bed20"/>
+		<furniture form="126D" id="Friffy_bed21"/>
+		<furniture form="126E" id="Friffy_bed22"/>
+	</group>
+	
+	<group id="Ottoman">
+	    <furniture form="820" id="Friffy_ChairPlayerHouseOttoMan01bk"/>
+		<furniture form="828" id="Friffy_ChairPlayerHouseOttoMan02rd"/>
+		<furniture form="855" id="Friffy_ChairPlayerHouseOttoMan03gr"/>
+		<furniture form="856" id="Friffy_ChairPlayerHouseOttoMan04vi"/>
+		<furniture form="857" id="Friffy_ChairPlayerHouseOttoMan05bl"/>
+	</group>
+	
+	<group id="Desk">
+		<furniture form="12F9" id="Friffy_Feddesk01"/>
+		<furniture form="12FA" id="Friffy_Feddesk02"/>
+		<furniture form="12FB" id="Friffy_Feddesk03"/>
+		<furniture form="12FC" id="Friffy_Feddesk04"/>
+		<furniture form="12FD" id="Friffy_Feddesk05"/>
+		
+		
+	</group>
+</furnitureData>
